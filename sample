@@ -1,0 +1,21 @@
+user-1
+   task-1 onpeninApp-> complete onpeninApp assignment
+      subtask-1 create project   -0 
+      subtask-2 include dependies-0
+      subtask-3 deploy           -0
+
+    task-2 Search for job
+      subtask-1 create linkedin account -0
+      subtask-2 open jobs section-0
+      subtask-3 message recrutier-0
+
+user-2
+   task-1 todo ong9ning done
+      subtask-1 -0 
+      subtask-2 -0
+      subtask-3 -0
+
+    task-2 todo
+      subtask-1 -0
+      subtask-2 -0
+      subtask-3 -0

@@ -1,0 +1,23 @@
+{
+  "name": "openinapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "body-parser": "^1.20.2",
+    "cron-job": "^1.0.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2",
+    "mysql2": "^3.9.1",
+    "node-cron": "^3.0.3",
+    "nodemon": "^3.0.3",
+    "sequelize": "^6.35.2",
+    "twilio": "^4.21.0"
+  }
+}
